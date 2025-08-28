@@ -47,8 +47,7 @@ The **ChatBox DS Mentor** is designed as a **virtual AI mentor** that:
 
 ## 🛠️ Tech Stack  
 
-- **Frontend/UI** → [Gradio](https://www.gradio.app/)  
-- **Deployment** → [Hugging Face Spaces](https://huggingface.co/spaces)  
+- **Deployment** → [Hugging Face Spaces](https://huggingface.co/spaces/sahitya6183/chatbox-ds-mentor)  
 - **Backend** → Python  
 - **Models** → Transformers / LLMs (Hugging Face pipelines)  
 
