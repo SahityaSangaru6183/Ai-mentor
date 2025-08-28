@@ -51,7 +51,4 @@ The **ChatBox DS Mentor** is designed as a **virtual AI mentor** that:
 - **Backend** → Python  
 - **Models** → Transformers / LLMs (Hugging Face pipelines)  
 
----
-
-## 📂 Project Structure  
 
